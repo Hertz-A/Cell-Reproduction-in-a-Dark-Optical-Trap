@@ -53,7 +53,6 @@ Trace and reproduction files are named by condition:
 | `rep_4*` | claw dark tweezer, 4 h trapping |
 | `rep_0*` | claw dark tweezer, 1 h trapping |
 | `rep_gaussian_*` | conventional Gaussian tweezer, 10 min trapping |
-| `rep_control_*` | free-growing cells, no laser |
 
 Solutions 1 to 9 are the trapping media described in the Supplementary
 Materials; solution 7 ($n = 1.401$) was used for all trapping experiments and
