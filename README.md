@@ -6,7 +6,7 @@ confined in a claw dark tweezer — a dark optical trap formed by three displace
 Gaussian beams operating in the repulsive regime of light–matter interactions
 ($m = n_{\text{cell}}/n_{\text{medium}} < 1$).
 
-**Preprint:** arXiv:XXXX.XXXXX
+**Preprint:** arXiv:2609.06193
 **Paper:** DOI to be added upon publication
 **Raw video recordings:** archived separately on Zenodo, DOI 10.5281/zenodo.XXXXXXX
 
