@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Gravacoes e sequencias de frames -> arquivadas no Zenodo, nao no GitHub
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+**/frames_video_*/
+**/*frames*/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Saidas intermediarias do YOLO
+runs/
