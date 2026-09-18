@@ -1,7 +1,9 @@
 # macOS
 .DS_Store
 
-# Gravacoes e sequencias de frames -> arquivadas no Zenodo, nao no GitHub
+# Video recordings and extracted frame sequences.
+# These are archived on Zenodo (see README) rather than tracked here:
+# GitHub blocks files above 100 MB, and the full set exceeds 9 GB.
 *.mp4
 *.avi
 *.mov
@@ -18,5 +20,5 @@ __pycache__/
 .venv/
 venv/
 
-# Saidas intermediarias do YOLO
+# YOLO training outputs
 runs/
