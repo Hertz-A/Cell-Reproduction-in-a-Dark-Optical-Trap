@@ -8,7 +8,7 @@ Gaussian beams operating in the repulsive regime of light–matter interactions
 
 **Preprint:** arXiv:2609.06193
 **Paper:** DOI to be added upon publication
-**Raw video recordings:** archived separately on Zenodo, DOI 10.5281/zenodo.XXXXXXX
+**Raw video recordings:** archived separately on Zenodo, DOI 10.5281/zenodo.22833929
 
 ---
 
